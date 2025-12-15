@@ -1,0 +1,24 @@
+<div style="max-width: 500px; margin: 40px auto; font-family: Arial;">
+  <h2>URL Shortener</h2>
+
+  <div>
+    <label>URL original</label><br>
+    <input type="text" [(ngModel)]="originalUrl" style="width:100%">
+  </div>
+
+  <br>
+
+  <div>
+    <label>Alias (opcional)</label><br>
+    <input type="text" [(ngModel)]="alias" style="width:100%">
+  </div>
+
+  <br>
+
+  <button (click)="generate()">Gerar</button>
+
+  <div *ngIf="shortUrl" style="margin-top:20px">
+    <p>URL encurtada:</p>
+    <a [href]="shortUrl" target="_blank">{{ shortUrl }}</a>
+  </div>
+</div>
