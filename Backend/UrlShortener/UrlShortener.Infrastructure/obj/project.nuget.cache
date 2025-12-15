@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QPVJXWLMocYMyDDWiU7++Lw052Vp3F4ehEnJM5vk8lFJFastYinF+/TgKIMxrLyn26VWQXOMEtoQydKaog0NTw==",
+  "dgSpecHash": "lOeqA6cLQU49RxF9wG90mzQQT2Uoe5yXxWtmQI96uAq/MmFqh9iX4e4fcPtyJMj8M3J2172bPf7QiSAlfRLIDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\Backend\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

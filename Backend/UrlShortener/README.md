@@ -118,3 +118,19 @@ suficiente para o escopo do desafio e fácil de substituir por banco de dados fu
 1. Validar a criação de URLs quando o alias não for fornecido.
 2. Não permitir criar duas URLs com o mesmo alias
 
+## Execução no IIS
+
+A aplicação foi desenvolvida para rodar em IIS.
+
+### IIS Express
+Pode ser executada diretamente pelo Visual Studio selecionando IIS Express como perfil de execução.
+
+### IIS Local
+Para executar em um IIS local:
+
+1. Instalar o ASP.NET Core Hosting Bundle.
+2. Publicar o projeto `UrlShortener.Api` (Publish → Folder).
+3. Criar um site no IIS apontando para a pasta publicada.
+4. Configurar o Application Pool com:
+   - .NET CLR Version: No Managed Code
+   - Pipeline Mode: Integrated

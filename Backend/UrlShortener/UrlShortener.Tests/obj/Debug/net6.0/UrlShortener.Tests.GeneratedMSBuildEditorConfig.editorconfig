@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UrlShortener.Tests
-build_property.ProjectDir = C:\Users\M43C05\Desktop\Desafio - Topaz\UrlShortener\UrlShortener.Tests\
+build_property.ProjectDir = C:\Users\M43C05\Desktop\Desafio - Topaz\Backend\UrlShortener\UrlShortener.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
