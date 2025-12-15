@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UrlShortener.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UrlShortener.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UrlShortener.Infrastructure.dll": {}
+        }
+      },
+      "UrlShortener.Domain/1.0.0": {
+        "runtime": {
+          "UrlShortener.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UrlShortener.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UrlShortener.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

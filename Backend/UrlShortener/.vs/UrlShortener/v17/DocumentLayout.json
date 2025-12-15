@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D246875-2251-495A-ACBA-138369C556D5}|UrlShortener.Tests\\UrlShortener.Tests.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.tests\\urlservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D246875-2251-495A-ACBA-138369C556D5}|UrlShortener.Tests\\UrlShortener.Tests.csproj|solutionrelative:urlshortener.tests\\urlservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7731031E-4A61-43E3-84A3-1EB33FE81ED5}|UrlShortener.API\\UrlShortener.API.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.api\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7731031E-4A61-43E3-84A3-1EB33FE81ED5}|UrlShortener.API\\UrlShortener.API.csproj|solutionrelative:urlshortener.api\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795DDED-6F51-4375-B21A-90146C06455D}|Solution Items{1795DDED-6F51-4375-B21A-90146C06455D}|C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1795DDED-6F51-4375-B21A-90146C06455D}|Solution Items{1795DDED-6F51-4375-B21A-90146C06455D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D7EBD-0D0F-4664-8B08-D3EFEF16D93F}|UrlShortener.Application\\UrlShortener.Application.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.application\\services\\urlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D7EBD-0D0F-4664-8B08-D3EFEF16D93F}|UrlShortener.Application\\UrlShortener.Application.csproj|solutionrelative:urlshortener.application\\services\\urlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7731031E-4A61-43E3-84A3-1EB33FE81ED5}|UrlShortener.API\\UrlShortener.API.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7731031E-4A61-43E3-84A3-1EB33FE81ED5}|UrlShortener.API\\UrlShortener.API.csproj|solutionrelative:urlshortener.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7BC4A1-EC5F-4394-8323-9049A24CC207}|UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.infrastructure\\repositories\\inmemoryurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7BC4A1-EC5F-4394-8323-9049A24CC207}|UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj|solutionrelative:urlshortener.infrastructure\\repositories\\inmemoryurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7BC4A1-EC5F-4394-8323-9049A24CC207}|UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.infrastructure\\urlshortener.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC7BC4A1-EC5F-4394-8323-9049A24CC207}|UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj|solutionrelative:urlshortener.infrastructure\\urlshortener.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D7EBD-0D0F-4664-8B08-D3EFEF16D93F}|UrlShortener.Application\\UrlShortener.Application.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.application\\interfaces\\iurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D7EBD-0D0F-4664-8B08-D3EFEF16D93F}|UrlShortener.Application\\UrlShortener.Application.csproj|solutionrelative:urlshortener.application\\interfaces\\iurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3799AC-1D83-4952-8AAB-25A149E77151}|UrlShortener.Domain\\UrlShortener.Domain.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.domain\\models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3799AC-1D83-4952-8AAB-25A149E77151}|UrlShortener.Domain\\UrlShortener.Domain.csproj|solutionrelative:urlshortener.domain\\models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D7EBD-0D0F-4664-8B08-D3EFEF16D93F}|UrlShortener.Application\\UrlShortener.Application.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.application\\urlshortener.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C3D7EBD-0D0F-4664-8B08-D3EFEF16D93F}|UrlShortener.Application\\UrlShortener.Application.csproj|solutionrelative:urlshortener.application\\urlshortener.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3799AC-1D83-4952-8AAB-25A149E77151}|UrlShortener.Domain\\UrlShortener.Domain.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.domain\\urlshortener.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C3799AC-1D83-4952-8AAB-25A149E77151}|UrlShortener.Domain\\UrlShortener.Domain.csproj|solutionrelative:urlshortener.domain\\urlshortener.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7731031E-4A61-43E3-84A3-1EB33FE81ED5}|UrlShortener.API\\UrlShortener.API.csproj|c:\\users\\m43c05\\desktop\\desafio - topaz\\urlshortener\\urlshortener.api\\urlshortener.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7731031E-4A61-43E3-84A3-1EB33FE81ED5}|UrlShortener.API\\UrlShortener.API.csproj|solutionrelative:urlshortener.api\\urlshortener.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrlServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Tests\\UrlServiceTests.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Tests\\UrlServiceTests.cs",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Tests\\UrlServiceTests.cs",
+              "RelativeToolTip": "UrlShortener.Tests\\UrlServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:50:14.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-14T19:20:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortener.API\\Program.cs",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\Program.cs",
+              "RelativeToolTip": "UrlShortener.API\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:12:25.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlController.cs",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\Controllers\\UrlController.cs",
+              "RelativeDocumentMoniker": "UrlShortener.API\\Controllers\\UrlController.cs",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\Controllers\\UrlController.cs",
+              "RelativeToolTip": "UrlShortener.API\\Controllers\\UrlController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:08:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrlService.cs",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\Services\\UrlService.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Application\\Services\\UrlService.cs",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\Services\\UrlService.cs",
+              "RelativeToolTip": "UrlShortener.Application\\Services\\UrlService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:01:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryUrlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\Repositories\\InMemoryUrlRepository.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Infrastructure\\Repositories\\InMemoryUrlRepository.cs",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\Repositories\\InMemoryUrlRepository.cs",
+              "RelativeToolTip": "UrlShortener.Infrastructure\\Repositories\\InMemoryUrlRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:41:41.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UrlShortener.Domain",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+              "RelativeDocumentMoniker": "UrlShortener.Domain\\UrlShortener.Domain.csproj",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+              "RelativeToolTip": "UrlShortener.Domain\\UrlShortener.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T18:18:57.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUrlService.cs",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\Interfaces\\IUrlService.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Application\\Interfaces\\IUrlService.cs",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\Interfaces\\IUrlService.cs",
+              "RelativeToolTip": "UrlShortener.Application\\Interfaces\\IUrlService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:27:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShortUrl.cs",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\Models\\ShortUrl.cs",
+              "RelativeDocumentMoniker": "UrlShortener.Domain\\Models\\ShortUrl.cs",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\Models\\ShortUrl.cs",
+              "RelativeToolTip": "UrlShortener.Domain\\Models\\ShortUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:19:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UrlShortener.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj",
+              "RelativeToolTip": "UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T18:17:56.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrlShortener.Application",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\UrlShortener.Application.csproj",
+              "RelativeDocumentMoniker": "UrlShortener.Application\\UrlShortener.Application.csproj",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\UrlShortener.Application.csproj",
+              "RelativeToolTip": "UrlShortener.Application\\UrlShortener.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T18:17:12.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrlShortener.API",
+              "DocumentMoniker": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\UrlShortener.API.csproj",
+              "RelativeDocumentMoniker": "UrlShortener.API\\UrlShortener.API.csproj",
+              "ToolTip": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\UrlShortener.API.csproj",
+              "RelativeToolTip": "UrlShortener.API\\UrlShortener.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T18:16:39.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

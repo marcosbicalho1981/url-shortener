@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\UrlShortener.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\UrlShortener.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\UrlShortener.API.csproj",
+        "projectName": "UrlShortener.API",
+        "projectPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\UrlShortener.API.csproj",
+        "packagesPath": "C:\\Users\\M43C05\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\M43C05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\UrlShortener.Application.csproj": {
+                "projectPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\UrlShortener.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\UrlShortener.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\UrlShortener.Application.csproj",
+        "projectName": "UrlShortener.Application",
+        "projectPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\UrlShortener.Application.csproj",
+        "packagesPath": "C:\\Users\\M43C05\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\M43C05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+                "projectPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
+              },
+              "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+        "projectName": "UrlShortener.Domain",
+        "projectPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+        "packagesPath": "C:\\Users\\M43C05\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\M43C05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj",
+        "projectName": "UrlShortener.Infrastructure",
+        "projectPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\UrlShortener.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\M43C05\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\M43C05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+                "projectPath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

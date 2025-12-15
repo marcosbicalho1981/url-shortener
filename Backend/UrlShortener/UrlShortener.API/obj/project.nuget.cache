@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkq52GSrIHLA/y8/LTkgMYO6mPHywZecERAluBL1JB/pTC07AtYqXxtS+6FfxuRuuRD/fJXetYNL5D93wZdXow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\M43C05\\Desktop\\Desafio - Topaz\\UrlShortener\\UrlShortener.API\\UrlShortener.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M43C05\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\M43C05\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\M43C05\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\M43C05\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\M43C05\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\M43C05\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
